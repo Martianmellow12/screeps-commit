@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Various testing things
+screeps-commit.config
+build.bat
+Test Commits/
